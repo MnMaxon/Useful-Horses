@@ -1,0 +1,8 @@
+name: Useful_Horses
+version: 1.0
+main: me.MnMaxon.UsefulHorses.Main
+commands:
+   UsefulHorses:
+      description: Displays help
+   UH:
+      description: Displays help
